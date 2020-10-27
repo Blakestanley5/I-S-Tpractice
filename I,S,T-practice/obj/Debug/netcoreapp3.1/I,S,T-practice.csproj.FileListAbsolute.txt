@@ -1,0 +1,13 @@
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.exe
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.deps.json
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.runtimeconfig.json
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.runtimeconfig.dev.json
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.dll
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\bin\Debug\netcoreapp3.1\I,S,T-practice.pdb
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.csprojAssemblyReference.cache
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.AssemblyInfoInputs.cache
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.AssemblyInfo.cs
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.csproj.CoreCompileInputs.cache
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.dll
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.pdb
+C:\Users\Conjur\repos\I,S,T-practice\I,S,T-practice\obj\Debug\netcoreapp3.1\I,S,T-practice.genruntimeconfig.cache
